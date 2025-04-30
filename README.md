@@ -34,7 +34,7 @@ This project is a **minimal simulation of a messaging system**, inspired by how 
 
 2. **Run the simulation**
    ```bash
-   python main.py
+   python3 main.py
    ```
 
 ---
