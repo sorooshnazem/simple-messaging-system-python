@@ -28,7 +28,7 @@ This project is a **minimal simulation of a messaging system**, inspired by how 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/simple-messaging-system-python.git
+   git clone https://github.com/sorooshnazem/simple-messaging-system-python.git
    cd simple-messaging-system-python
    ```
 
